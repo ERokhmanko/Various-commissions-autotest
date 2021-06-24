@@ -337,6 +337,6 @@ internal class MainKtTest {
             amountKop = amountKop
         )
 
-        assertEquals(7500.0, result)
+        assertEquals(0.0, result)
     }
 }
